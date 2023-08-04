@@ -21,9 +21,9 @@
  */
 package com.dtu.clientside.view;
 
-import com.dtu.Shared.controller.IGameController;
-import com.dtu.Shared.model.*;
-import com.dtu.Shared.observer.Subject;
+import com.dtu.shared.controller.IGameController;
+import com.dtu.shared.model.*;
+import com.dtu.shared.observer.Subject;
 
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;

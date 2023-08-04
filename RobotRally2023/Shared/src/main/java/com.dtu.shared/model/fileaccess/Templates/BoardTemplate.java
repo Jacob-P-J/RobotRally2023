@@ -1,4 +1,4 @@
-package src.main.java.com.dtu.shared.model.fileaccess.Templates;
+package com.dtu.shared.model.fileaccess.Templates;
 
 import java.util.ArrayList;
 import java.util.List;

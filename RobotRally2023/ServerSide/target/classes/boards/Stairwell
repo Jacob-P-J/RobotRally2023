@@ -1,0 +1,207 @@
+{
+  "width": 8,
+  "height": 8,
+  "spaces": [
+    {
+      "walls": ["WEST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "SOUTH",
+      "power":1
+        }
+      ],
+      "x": 1,
+      "y": 2
+    },
+    {
+      "walls": ["WEST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "EAST",
+      "power":1
+        }
+      ],
+      "x": 1,
+      "y": 3
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "SOUTH",
+      "power":1
+        }
+      ],
+      "x": 2,
+      "y": 3
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "WEST",
+      "power":1
+        }
+      ],
+      "x": 2,
+      "y": 4
+    },
+    {
+      "walls": ["WEST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "SOUTH",
+      "power":1
+        }
+      ],
+      "x": 1,
+      "y": 4
+    },
+    {
+      "walls": ["WEST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "EAST",
+      "power":1
+        }
+      ],
+      "x": 1,
+      "y": 5
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "checkPoint",
+          "checkPointNumber": 1
+        }
+      ],
+      "x": 2,
+      "y": 5
+    },
+    {
+      "walls": ["EAST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "NORTH",
+      "power":1
+        }
+      ],
+      "x": 6,
+      "y": 5
+    },
+    {
+      "walls": ["EAST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "WEST",
+      "power":1
+        }
+      ],
+      "x": 6,
+      "y": 4
+    },
+    {
+      "walls": ["EAST"],
+      "actions": [
+        {
+                  "type": "checkPoint",
+                  "checkPointNumber": 2
+        }
+      ],
+      "x": 3,
+      "y": 3
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "NORTH",
+      "power":1
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "EAST",
+      "power":1
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "walls": ["EAST"],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "NORTH",
+      "power":1
+        }
+      ],
+      "x": 6,
+      "y": 4
+    },
+    {
+      "walls": ["EAST"],
+        "actions": [
+          {
+            "type": "conveyorBelt",
+            "heading": "WEST",
+        "power":1
+          }
+        ],
+        "x": 6,
+        "y": 3
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "NORTH",
+      "power":1
+        }
+      ],
+      "x": 5,
+      "y": 3
+    },
+    {
+      "walls": [],
+      "actions": [
+        {
+          "type": "conveyorBelt",
+          "heading": "EAST",
+      "power":1
+        }
+      ],
+      "x": 5,
+      "y": 2
+    },
+    {
+      "walls":[],
+      "actions": [
+        {
+                  "type": "checkPoint",
+                  "checkPointNumber": 3
+                }
+      ],
+      "x": 6,
+      "y": 1
+    }
+  ]
+}

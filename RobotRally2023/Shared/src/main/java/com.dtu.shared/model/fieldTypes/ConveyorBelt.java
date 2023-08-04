@@ -1,10 +1,10 @@
-package src.main.java.com.dtu.shared.model.fieldTypes;
+package com.dtu.shared.model.fieldTypes;
 
-import src.main.java.com.dtu.shared.controller.GameController;
-import src.main.java.com.dtu.shared.controller.IGameController;
-import src.main.java.com.dtu.shared.model.FieldAction;
-import src.main.java.com.dtu.shared.model.Heading;
-import src.main.java.com.dtu.shared.model.Space;
+import com.dtu.shared.controller.GameController;
+import com.dtu.shared.controller.IGameController;
+import com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.Heading;
+import com.dtu.shared.model.Space;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.Serializable;

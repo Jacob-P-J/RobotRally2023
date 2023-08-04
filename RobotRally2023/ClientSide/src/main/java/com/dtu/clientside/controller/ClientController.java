@@ -1,11 +1,11 @@
 package com.dtu.clientside.controller;
 
-import com.dtu.Shared.Config;
-import com.dtu.Shared.controller.GameController;
-import com.dtu.Shared.model.Board;
-import com.dtu.Shared.model.Player;
-import com.dtu.Shared.model.Space;
-import com.dtu.Shared.model.fieldTypes.Checkpoint;
+import com.dtu.shared.Config;
+import com.dtu.shared.controller.GameController;
+import com.dtu.shared.model.Board;
+import com.dtu.shared.model.Player;
+import com.dtu.shared.model.Space;
+import com.dtu.shared.model.fieldTypes.Checkpoint;
 import com.dtu.clientside.RobotRally;
 import javafx.application.Platform;
 import javafx.scene.control.Alert;

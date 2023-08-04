@@ -19,13 +19,13 @@
  *  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  */
-package src.main.java.com.dtu.shared.model.fileaccess;
+package com.dtu.shared.model.fileaccess;
 
-import src.main.java.com.dtu.shared.Config;
+import com.dtu.shared.Config;
 import com.dtu.shared.model.Board;
-import src.main.java.com.dtu.shared.model.FieldAction;
-import src.main.java.com.dtu.shared.model.Player;
-import src.main.java.com.dtu.shared.model.Space;
+import com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.Player;
+import com.dtu.shared.model.Space;
 import com.dtu.shared.model.fileaccess.Templates.BoardTemplate;
 import com.dtu.shared.model.fileaccess.Templates.PlayerTemplate;
 import com.dtu.shared.model.fileaccess.Templates.SpaceTemplate;

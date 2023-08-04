@@ -1,7 +1,7 @@
-package src.main.java.com.dtu.shared.model.fileaccess;
+package com.dtu.shared.model.fileaccess;
 
-import src.main.java.com.dtu.shared.model.FieldAction;
-import src.main.java.com.dtu.shared.model.Heading;
+import com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.Heading;
 import com.dtu.shared.model.fieldTypes.Checkpoint;
 import com.dtu.shared.model.fieldTypes.ConveyorBelt;
 import com.dtu.shared.model.fieldTypes.RotateGear;

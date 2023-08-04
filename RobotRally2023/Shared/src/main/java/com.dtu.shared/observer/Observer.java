@@ -19,7 +19,7 @@
  *  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  */
-package src.main.java.com.dtu.shared.observer;
+package com.dtu.shared.observer;
 
 /**
  * This is the observer of the observer design pattern roughly following

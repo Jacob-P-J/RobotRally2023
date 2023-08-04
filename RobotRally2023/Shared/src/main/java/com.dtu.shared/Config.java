@@ -1,4 +1,4 @@
-package src.main.java.com.dtu.shared;
+package com.dtu.shared;
 
 import java.util.Arrays;
 import java.util.List;

@@ -21,13 +21,13 @@
  */
 package com.dtu.clientside.view;
 
-import com.dtu.Shared.model.Heading;
-import com.dtu.Shared.model.fieldTypes.Checkpoint;
-import com.dtu.Shared.model.fieldTypes.ConveyorBelt;
-import com.dtu.Shared.model.fieldTypes.RotateGear;
-import com.dtu.Shared.observer.Subject;
-import com.dtu.Shared.model.Player;
-import com.dtu.Shared.model.Space;
+import com.dtu.shared.model.Heading;
+import com.dtu.shared.model.fieldTypes.Checkpoint;
+import com.dtu.shared.model.fieldTypes.ConveyorBelt;
+import com.dtu.shared.model.fieldTypes.RotateGear;
+import com.dtu.shared.observer.Subject;
+import com.dtu.shared.model.Player;
+import com.dtu.shared.model.Space;
 
 import javafx.scene.image.Image;
 import javafx.scene.layout.StackPane;

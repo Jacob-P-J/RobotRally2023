@@ -22,7 +22,7 @@
 package com.dtu.clientside;
 
 import com.dtu.clientside.controller.ClientController;
-import com.dtu.Shared.controller.IGameController;
+import com.dtu.shared.controller.IGameController;
 import com.dtu.clientside.view.BoardView;
 import com.dtu.clientside.view.RobotRallyMenuBar;
 import javafx.application.Application;

@@ -21,8 +21,8 @@
  */
 package com.dtu.clientside.view;
 
-import com.dtu.Shared.observer.Observer;
-import com.dtu.Shared.observer.Subject;
+import com.dtu.shared.observer.Observer;
+import com.dtu.shared.observer.Subject;
 import javafx.application.Platform;
 
 /**

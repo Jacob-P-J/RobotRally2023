@@ -19,9 +19,9 @@
  *  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  */
-package src.main.java.com.dtu.shared.model.fileaccess;
+package com.dtu.shared.model.fileaccess;
 
-import src.main.java.com.dtu.shared.Config;
+import com.dtu.shared.Config;
 import com.google.common.base.Charsets;
 import com.google.common.io.ByteSource;
 

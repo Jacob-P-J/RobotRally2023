@@ -1,6 +1,6 @@
-package src.main.java.com.dtu.shared.model.fileaccess;
+package com.dtu.shared.model.fileaccess;
 
-import src.main.java.com.dtu.shared.Config;
+import com.dtu.shared.Config;
 import com.dtu.shared.model.Board;
 
 import java.io.*;

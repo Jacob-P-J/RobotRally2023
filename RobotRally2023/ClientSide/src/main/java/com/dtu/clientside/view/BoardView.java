@@ -21,15 +21,13 @@
  */
 package com.dtu.clientside.view;
 
-import com.dtu.Shared.controller.IGameController;
-import com.dtu.Shared.model.Board;
-import com.dtu.Shared.model.Phase;
-import com.dtu.Shared.model.Space;
-import com.dtu.Shared.observer.Subject;
+import com.dtu.shared.controller.IGameController;
+import com.dtu.shared.model.Board;
+import com.dtu.shared.model.Phase;
+import com.dtu.shared.model.Space;
+import com.dtu.shared.observer.Subject;
 
-import javafx.event.EventHandler;
 import javafx.scene.control.Label;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import org.jetbrains.annotations.NotNull;

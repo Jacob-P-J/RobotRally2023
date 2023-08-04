@@ -21,12 +21,12 @@
  */
 package com.dtu.clientside.view;
 
-import com.dtu.Shared.controller.IGameController;
-import com.dtu.Shared.model.CommandCard;
-import com.dtu.Shared.model.CommandCardField;
-import com.dtu.Shared.model.Phase;
-import com.dtu.Shared.model.Player;
-import com.dtu.Shared.observer.Subject;
+import com.dtu.shared.controller.IGameController;
+import com.dtu.shared.model.CommandCard;
+import com.dtu.shared.model.CommandCardField;
+import com.dtu.shared.model.Phase;
+import com.dtu.shared.model.Player;
+import com.dtu.shared.observer.Subject;
 
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;

@@ -1,4 +1,4 @@
-package src.main.java.com.dtu.shared.controller;
+package com.dtu.shared.controller;
 
 import com.dtu.shared.model.*;
 import org.jetbrains.annotations.NotNull;

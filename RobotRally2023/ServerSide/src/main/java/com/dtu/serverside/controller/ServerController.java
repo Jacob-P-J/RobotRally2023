@@ -1,12 +1,12 @@
 package com.dtu.serverside.controller;
 
-import com.dtu.Shared.Config;
-import com.dtu.Shared.controller.GameController;
-import com.dtu.Shared.model.Board;
-import com.dtu.Shared.model.Player;
-import com.dtu.Shared.model.fileaccess.InputUtil;
-import com.dtu.Shared.model.fileaccess.LoadBoard;
-import com.dtu.Shared.model.fileaccess.SaveGameController;
+import com.dtu.shared.Config;
+import com.dtu.shared.controller.GameController;
+import com.dtu.shared.model.Board;
+import com.dtu.shared.model.Player;
+import com.dtu.shared.model.fileaccess.InputUtil;
+import com.dtu.shared.model.fileaccess.LoadBoard;
+import com.dtu.shared.model.fileaccess.SaveGameController;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

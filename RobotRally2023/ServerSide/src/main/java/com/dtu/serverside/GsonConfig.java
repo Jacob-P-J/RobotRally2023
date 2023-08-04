@@ -1,7 +1,7 @@
 package com.dtu.serverside;
 
-import com.dtu.Shared.model.FieldAction;
-import com.dtu.Shared.model.fileaccess.FieldActionTypeAdapter;
+import com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.fileaccess.FieldActionTypeAdapter;
 import org.springframework.boot.autoconfigure.gson.GsonBuilderCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

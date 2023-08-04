@@ -1,7 +1,7 @@
-package src.main.java.com.dtu.shared.model.fileaccess.Templates;
+package com.dtu.shared.model.fileaccess.Templates;
 
-import src.main.java.com.dtu.shared.model.Heading;
-import src.main.java.com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.Heading;
+import com.dtu.shared.model.FieldAction;
 
 import java.util.ArrayList;
 import java.util.List;

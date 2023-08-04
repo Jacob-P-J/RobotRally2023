@@ -1,6 +1,6 @@
-package src.main.java.com.dtu.shared.model.fileaccess.Templates;
+package com.dtu.shared.model.fileaccess.Templates;
 
-import src.main.java.com.dtu.shared.model.Heading;
+import com.dtu.shared.model.Heading;
 
 // This class is used to store the player data from the json file
 public class PlayerTemplate {

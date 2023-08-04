@@ -1,9 +1,9 @@
 package com.dtu.clientside.controller;
 
-import com.dtu.Shared.model.Board;
-import com.dtu.Shared.model.FieldAction;
-import com.dtu.Shared.model.fileaccess.FieldActionTypeAdapter;
-import com.dtu.Shared.model.fileaccess.LoadBoard;
+import com.dtu.shared.model.Board;
+import com.dtu.shared.model.FieldAction;
+import com.dtu.shared.model.fileaccess.FieldActionTypeAdapter;
+import com.dtu.shared.model.fileaccess.LoadBoard;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
